@@ -1,0 +1,30 @@
+.input-like-btn {
+    background-color: #f2f2f200;
+    border: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.reload-icon {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 1;
+    transition: transform 0.3s;
+  }
+
+.reload-icon:hover {
+    color: #ffffff;      
+  text-decoration: none; /* Quita la línea de subrayado */
+  cursor: pointer; /* Cambia el cursor del mouse */
+}
+
+.input-like-btn:hover {
+    background-color: #f2f2f200;
+    color: #ffffff;
+    text-decoration: none; /* Quita la línea de subrayado */
+    cursor: pointer; /* Cambia el cursor del mouse */
+}
